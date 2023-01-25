@@ -1,4 +1,4 @@
-SELECT * FROM db_study3.library_mst;
+SELECT * FROM db_study3.library_mst order by 순번 desc;
 
 select 
 	*
